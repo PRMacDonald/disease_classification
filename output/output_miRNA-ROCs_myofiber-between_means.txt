@@ -1,0 +1,63 @@
+Thresholds
+miRNA: ROCs
+myofiber: between means
+
+--- 21 days ---
+miRNA
+KOs id'd  : 20
+KOs missed: 4
+WTs id'd  : 19
+WTs missed: 7
+
+myofiber
+KOs id'd  : 20
+KOs missed: 4
+WTs id'd  : 21
+WTs missed: 5
+
+f_LDA = @(x1,x2) K + L(1)*x1 + L(2)*x2
+constant K: -16.418913
+coefficient L(1): 0.326083
+coefficient L(2): 4.739236
+
+y = -0.0688x + 3.4645
+
+--- 28 days ---
+miRNA
+KOs id'd  : 19
+KOs missed: 2
+WTs id'd  : 14
+WTs missed: 6
+
+myofiber
+KOs id'd  : 20
+KOs missed: 1
+WTs id'd  : 17
+WTs missed: 3
+
+f_LDA = @(x1,x2) K + L(1)*x1 + L(2)*x2
+constant K: -13.291488
+coefficient L(1): 0.192114
+coefficient L(2): 5.649504
+
+y = -0.0340x + 2.3527
+
+--- 36 days ---
+miRNA
+KOs id'd  : 19
+KOs missed: 2
+WTs id'd  : 20
+WTs missed: 2
+
+myofiber
+KOs id'd  : 21
+KOs missed: 0
+WTs id'd  : 22
+WTs missed: 0
+
+f_LDA = @(x1,x2) K + L(1)*x1 + L(2)*x2
+constant K: -41.941440
+coefficient L(1): 0.711901
+coefficient L(2): 11.179929
+
+y = -0.0637x + 3.7515

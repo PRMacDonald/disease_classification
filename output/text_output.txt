@@ -1,0 +1,38 @@
+--- 21 days ---
+miRNA
+KOs id'd  : 20
+KOs missed: 4
+WTs id'd  : 19
+WTs missed: 7
+
+myofiber
+KOs id'd  : 20
+KOs missed: 4
+WTs id'd  : 21
+WTs missed: 5
+
+--- 28 days ---
+miRNA
+KOs id'd  : 18
+KOs missed: 3
+WTs id'd  : 14
+WTs missed: 6
+
+myofiber
+KOs id'd  : 20
+KOs missed: 1
+WTs id'd  : 17
+WTs missed: 3
+
+--- 36 days ---
+miRNA
+KOs id'd  : 19
+KOs missed: 2
+WTs id'd  : 19
+WTs missed: 3
+
+myofiber
+KOs id'd  : 21
+KOs missed: 0
+WTs id'd  : 22
+WTs missed: 0

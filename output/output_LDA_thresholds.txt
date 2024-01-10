@@ -1,0 +1,55 @@
+Thresholds
+miRNA: LDA
+myofiber: LDA
+
+--- 21 days ---
+miRNA
+threshold: 0.8103
+KOs id'd  : 19
+KOs missed: 5
+WTs id'd  : 19
+WTs missed: 7
+
+myofiber
+threshold: 38.4490
+KOs id'd  : 20
+KOs missed: 4
+WTs id'd  : 21
+WTs missed: 5
+
+y = -0.0688x + 3.4645
+
+--- 28 days ---
+miRNA
+threshold: 0.8715
+KOs id'd  : 18
+KOs missed: 3
+WTs id'd  : 14
+WTs missed: 6
+
+myofiber
+threshold: 43.6311
+KOs id'd  : 20
+KOs missed: 1
+WTs id'd  : 17
+WTs missed: 3
+
+y = -0.0340x + 2.3527
+
+--- 36 days ---
+miRNA
+threshold: 0.7885
+KOs id'd  : 19
+KOs missed: 2
+WTs id'd  : 19
+WTs missed: 3
+
+myofiber
+threshold: 46.4731
+KOs id'd  : 21
+KOs missed: 0
+WTs id'd  : 22
+WTs missed: 0
+
+y = -0.0637x + 3.7515
+>> 
